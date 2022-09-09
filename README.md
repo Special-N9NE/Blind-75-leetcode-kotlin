@@ -1,6 +1,9 @@
 # Blind-75-leetcode-kotlin
 Blind 75 LeetCode solutions with kotlin language
 
+Questions here:
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
 # Solutions
 ### Array
 [Two Sum](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/TwoSum.kt)
