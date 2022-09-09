@@ -9,3 +9,4 @@ Blind 75 LeetCode solutions with kotlin language
 
 [Contains Duplicate](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/ContainsDuplicate.kt)
 
+[Maximum Subarray](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/MaximumSubarray.kt)
