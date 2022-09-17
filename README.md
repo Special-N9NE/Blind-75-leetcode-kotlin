@@ -14,4 +14,4 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 
 [Maximum Subarray](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/MaximumSubarray.kt)
 
-[Maximum Product Subarray](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/MaximumProcustSubarray.kt)
+[Maximum Product Subarray](https://github.com/Special-N9NE/Blind-75-leetcode-kotlin/blob/master/Solutions/MaximumProductSubarray.kt)
